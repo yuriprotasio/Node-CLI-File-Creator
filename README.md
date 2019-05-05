@@ -1,4 +1,4 @@
-# Node Cli File Creator
+# Node CLI - File Creator
 
 Simple node cli which asks you a name and creates a file.
 
